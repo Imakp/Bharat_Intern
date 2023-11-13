@@ -1,4 +1,4 @@
-// File: /Users/the_beast/Projects/Github/Content-Management-Tool/src/app/api/auth/[...nextauth]/route.js
+// File: /Users/the_beast/Projects/Github/Bharat_Intern/Content_Management_Tool/src/app/api/auth/[...nextauth]/route.js
 import * as entry from '../../../../../../src/app/api/auth/[...nextauth]/route.js'
 import type { NextRequest } from 'next/server.js'
 

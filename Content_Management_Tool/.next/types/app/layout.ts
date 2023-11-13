@@ -1,4 +1,4 @@
-// File: /Users/the_beast/Projects/Github/Content-Management-Tool/src/app/layout.js
+// File: /Users/the_beast/Projects/Github/Bharat_Intern/Content_Management_Tool/src/app/layout.js
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

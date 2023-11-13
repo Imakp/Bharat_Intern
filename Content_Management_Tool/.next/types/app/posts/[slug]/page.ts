@@ -1,4 +1,4 @@
-// File: /Users/the_beast/Projects/Github/Content-Management-Tool/src/app/posts/[slug]/page.jsx
+// File: /Users/the_beast/Projects/Github/Bharat_Intern/Content_Management_Tool/src/app/posts/[slug]/page.jsx
 import * as entry from '../../../../../src/app/posts/[slug]/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
